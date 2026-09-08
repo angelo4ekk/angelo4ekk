@@ -1,6 +1,6 @@
 ![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/new_header.png)
 
-About me 
+## I am a beginner manual tester.
 
 Languages and Tools 
 
