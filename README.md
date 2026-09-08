@@ -1,6 +1,6 @@
 ![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/new_header.jpeg)
 
-# 👋 Привет, я Катя! 👋
+# 👋 Привет, я Катя!✌️
 
 <br>
 <br>
