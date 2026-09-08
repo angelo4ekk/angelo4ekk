@@ -22,4 +22,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ekaterina-talan-a044253b9/)
 [![Telegram](https://img.shields.io/badge/-Telegram-70fdff?style=flat&logo=telegram)](https://t.me/angelo4ek598)
 
-[![Anarig's gitnub stats](https://github-readme-stats.vercel.app/api?username=angelo4ekk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gitnub stats](https://github-readme-stats.vercel.app/api?username=angelo4ekk&show_icons=true)](https://github.com/angelo4ekk/github-readme-stats)
