@@ -18,4 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Devtools](https://img.shields.io/badge/-Devtools-fdff70?style=flat&logo=google)
 
-Follow Me
+### Follow Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ekaterina-talan-a044253b9/)
+![Telegram](https://img.shields.io/badge/-Telegram-70fdff?style=flat&logo=telegram)
