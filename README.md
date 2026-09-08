@@ -1,4 +1,4 @@
-[![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/1788863682.png)]
+![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/new_header.png)
 
 About me 
 
