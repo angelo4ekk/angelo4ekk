@@ -1,4 +1,4 @@
-![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/new_header.png)
+![Header](https://github.com/angelo4ekk/angelo4ekk/blob/main/assets/new_header.jpeg)
 
 ## I am a beginner manual tester.
 
